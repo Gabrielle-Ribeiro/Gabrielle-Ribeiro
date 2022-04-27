@@ -1,8 +1,8 @@
 ### ✨ Hi there, I'm Gabrielle! ✨
-- Software Engineering Student at the University of Brasilia.
+- Software Engineering Student at the University of Brasilia - UnB.
 - Passionate about programming, machine learning, data science and robotics.
 - Member of a competition team, EDRA-UnB ❤️, which develops autonomous drones. In it I work mainly with computer vision.
-- Intern at the Federal Police, working with data.
+- Intern at Alura | Scuba Team Semente. 💙🚀
 
 ## Languages e Tools 💻
 <div style="display: inline">
